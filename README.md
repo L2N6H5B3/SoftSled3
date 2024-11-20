@@ -1,7 +1,7 @@
 # SoftSled3
 A Software Media Center Extender, based on Java and properJavaRDP
 
-![Screenshot of the Dev Shell](https://raw.githubusercontent.com/L2N6H5B3/SoftSled3/main/Screenshot.jpg)
+![Screenshot of the Dev Shell](https://raw.githubusercontent.com/L2N6H5B3/SoftSled3/main/Screenshot.png)
 
 ## Overview
 This project is a continuation of the SoftSled2 project, copying the code used for the original C# project into Java and using the properJavaRDP as a test ground to ensure the issues present in the original SoftSled2 project are resolved by properJavaRDP.
